@@ -14,8 +14,8 @@ st.title('Prediksi Biaya Asuransi')
 
 # Informasi Pembuat
 st.sidebar.header('Informasi Pembuat')
-st.sidebar.write('Nama: SALMAN ALFARITSI')
-st.sidebar.write('NIM: 2021230055')
+st.sidebar.write('Nama: S CHANDRA ALPEDO')
+st.sidebar.write('NIM: 2021230034')
 
 # Input fitur
 age = st.number_input('Umur', min_value=18, max_value=64, value=30)
